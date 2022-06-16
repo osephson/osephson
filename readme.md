@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dedicated Man
 
 I know, big username right?
-I'm a **Front End Engineer** based in California. I'm a coding passionate focused on **JavaScript**, specifically **React** & **React-Native**.
+I'm a **Full Stack Engineer** based in California. I'm a coding passionate focused on **JavaScript**, specifically **React**, **Vue.js**, **Angular** for front-end, **Express**, **NestJS** for back-end.
 
 ## About me
 
