@@ -3,9 +3,7 @@
 I know, big username right?
 I'm a **Full Stack Engineer** with extensive skills and hands-on experience in building web applications with cutting-edge technologies. I'm a coding passionate focused on **JavaScript**, specifically **React**, **Vue.js**, **Angular** for front-end, **Express**, **NestJS** for back-end.
 
-## About me
-
-I'm currently working as a Full Stack Developer at [fitzner-consulting](https://github.com/fitzner-consulting). I use daily; **JavaScript**, **ReactJS**, **Git**, **Shell** and **VSCode**.
+I use daily; **JavaScript**, **ReactJS**, **Git**, **Shell** and **VSCode**.
 
 Nowadays, I'm transitioning into web3 technologies and have contributed to open-source [cardanocli-js](https://github.com/shareslake/cardanocli-js) for Cardano.
 
