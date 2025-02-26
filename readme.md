@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dedicated Man
+# Hi 👋, I'm Grayson
 
 I know, big username right?
 I'm a **Full Stack Engineer** with extensive skills and hands-on experience in building web applications with cutting-edge technologies. I'm a coding passionate focused on **JavaScript**, specifically **React**, **Vue.js**, **Angular** for front-end, **Express**, **NestJS**, **C#** for back-end.
